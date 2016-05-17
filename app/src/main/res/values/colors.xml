@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="date_box_gray">#dedede</color>
+
+    <color name="transperent">#00000000</color>
+    <color name="transperent_black">#55000000</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray_fragment_background">#d1d1d1</color>
+
+    <color name="text_gray">#b3b3b3</color>
+
+    <!-- slider colors -->
+    <color name="iron_purple">#7e57c2</color>
+    <color name="laundry_green">#00bfa5</color>
+    <color name="dry_clean_blue">#2196f3</color>
+</resources>
